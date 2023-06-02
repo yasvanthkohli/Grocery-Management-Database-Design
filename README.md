@@ -1,6 +1,7 @@
 # Grocery-Management-Database-Design
 
 Project: Grocery Management System
+
 Description: 
 
  The Grocery Management System is designed to manage customer information, product inventory, orders, and order items in a grocery store. It allows for tracking customer details, product information, order history, and generating reports based on the stored data.
