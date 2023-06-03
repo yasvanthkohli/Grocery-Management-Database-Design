@@ -34,7 +34,7 @@ Tasks:
 -	Calculate total sales and revenue.
 -	Analyze product popularity and customer buying patterns.
 -	Identify best-selling products and top customers.
--	
+
 These tasks involve performing various SQL operations such as creating tables, inserting data, retrieving information, updating records, and generating reports. The system aims to streamline grocery store operations, facilitate customer management, and provide insights into sales and inventory.
 
 
